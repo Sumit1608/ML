@@ -1,0 +1,7 @@
+https://www.kaggle.com/mvanshika/diabetes-prediction/notebook
+
+
+https://github.com/coding-blocks-archives/machine-learning-online-2018
+
+
+https://github.com/python-engineer/MLfromscratch/tree/master/mlfromscratch
